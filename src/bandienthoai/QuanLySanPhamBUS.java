@@ -1,4 +1,4 @@
-package giaodienchuan.model.BackEnd.QuanLySanPham;
+package bandienthoai.model.BackEnd.QuanLySanPham;
 
 import java.util.ArrayList;
 
