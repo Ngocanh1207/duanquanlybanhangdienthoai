@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package giaodienchuan.model.FrontEnd.FormHienThi;
+package bandienthoai.model.FrontEnd.FormHienThi;
 
-import giaodienchuan.model.FrontEnd.GiaoDienChuan.MyTable;
+import bandienthoai.model.FrontEnd.bandienthoai.MyTable;
 import javax.swing.JPanel;
 
 /**
