@@ -3,15 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package giaodienchuan.model.FrontEnd.GiaoDienChuan;
+package bandienthoai.model.FrontEnd.GiaoDienChuan;
 
-import giaodienchuan.model.BackEnd.QuanLyNhanVien.NhanVien;
-import giaodienchuan.model.BackEnd.QuanLyNhanVien.QuanLyNhanVienBUS;
-import giaodienchuan.model.BackEnd.QuanLyQuyen.QuanLyQuyenBUS;
-import giaodienchuan.model.BackEnd.QuanLyQuyen.Quyen;
-import giaodienchuan.model.BackEnd.QuanLyTaiKhoan.QuanLyTaiKhoanBUS;
-import giaodienchuan.model.BackEnd.QuanLyTaiKhoan.TaiKhoan;
-import giaodienchuan.model.BackEnd.ReadWriteFile.WorkWithFile;
+import bandienthoai.model.BackEnd.QuanLyNhanVien.NhanVien;
+import bandienthoai.model.BackEnd.QuanLyNhanVien.QuanLyNhanVienBUS;
+import bandienthoai.model.BackEnd.QuanLyQuyen.QuanLyQuyenBUS;
+import bandienthoai.model.BackEnd.QuanLyQuyen.Quyen;
+import bandienthoai.model.BackEnd.QuanLyTaiKhoan.QuanLyTaiKhoanBUS;
+import bandienthoai.model.BackEnd.QuanLyTaiKhoan.TaiKhoan;
+import bandienthoai.model.BackEnd.ReadWriteFile.WorkWithFile;
 import java.awt.event.FocusEvent;
 import java.awt.event.FocusListener;
 import java.awt.event.KeyAdapter;
