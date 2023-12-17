@@ -3,19 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package giaodienchuan.model.FrontEnd.FormHienThi;
+package bandienthoai.model.FrontEnd.FormHienThi;
 
 import com.github.lgooddatepicker.components.DatePicker;
 import com.github.lgooddatepicker.components.DatePickerSettings;
-import giaodienchuan.model.BackEnd.PriceFormatter;
-import giaodienchuan.model.BackEnd.QuanLyNCC.QuanLyNhaCungCapBUS;
-import giaodienchuan.model.BackEnd.QuanLyNhanVien.QuanLyNhanVienBUS;
-import giaodienchuan.model.BackEnd.QuanLyPhieuNhap.PhieuNhap;
-import giaodienchuan.model.BackEnd.QuanLyPhieuNhap.QuanLyPhieuNhapBUS;
-import giaodienchuan.model.BackEnd.WritePDF.WritePDF;
-import giaodienchuan.model.FrontEnd.FormQuanLy.QuanLyChiTietPhieuNhapForm;
-import giaodienchuan.model.FrontEnd.GiaoDienChuan.MyTable;
-import giaodienchuan.model.FrontEnd.MyButton.DateButton;
+import bandienthoai.model.BackEnd.PriceFormatter;
+import bandienthoai.model.BackEnd.QuanLyNCC.QuanLyNhaCungCapBUS;
+import bandienthoai.model.BackEnd.QuanLyNhanVien.QuanLyNhanVienBUS;
+import bandienthoai.model.BackEnd.QuanLyPhieuNhap.PhieuNhap;
+import bandienthoai.model.BackEnd.QuanLyPhieuNhap.QuanLyPhieuNhapBUS;
+import bandienthoai.model.BackEnd.WritePDF.WritePDF;
+import bandienthoai.model.FrontEnd.FormQuanLy.QuanLyChiTietPhieuNhapForm;
+import bandienthoai.model.FrontEnd.GiaoDienChuan.MyTable;
+import bandienthoai.model.FrontEnd.MyButton.DateButton;
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Dimension;
