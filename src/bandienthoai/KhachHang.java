@@ -1,4 +1,4 @@
-package giaodienchuan.model.BackEnd.QuanLyKhachHang;
+package bandienthoai.model.BackEnd.QuanLyKhachHang;
 
 
 public class KhachHang {
