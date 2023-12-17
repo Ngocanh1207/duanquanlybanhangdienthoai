@@ -1,8 +1,8 @@
-package giaodienchuan.model.FrontEnd.FormHienThi;
+package bandienthoai.model.FrontEnd.FormHienThi;
 
-import giaodienchuan.model.BackEnd.QuanLyTaiKhoan.QuanLyTaiKhoanBUS;
-import giaodienchuan.model.BackEnd.QuanLyTaiKhoan.TaiKhoan;
-import giaodienchuan.model.FrontEnd.GiaoDienChuan.MyTable;
+import bandienthoai.model.BackEnd.QuanLyTaiKhoan.QuanLyTaiKhoanBUS;
+import bandienthoai.model.BackEnd.QuanLyTaiKhoan.TaiKhoan;
+import bandienthoai.model.FrontEnd.bandienthoai.MyTable;
 import java.awt.BorderLayout;
 import java.awt.Dimension;
 import java.awt.event.ActionEvent;
