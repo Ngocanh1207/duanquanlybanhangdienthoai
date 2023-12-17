@@ -4,7 +4,7 @@
  */
 package bandienthoai;
 
-//import giaodienchuan.model.FrontEnd.GiaoDienChuan.LoginForm;
+//import bandienthoai.model.FrontEnd.bandienthoai.LoginForm;
 import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;
 
