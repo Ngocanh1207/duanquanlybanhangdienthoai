@@ -1,6 +1,6 @@
-package giaodienchuan.model.BackEnd.QuanLyTaiKhoan;
+package bandienthoai.model.BackEnd.QuanLyTaiKhoan;
 
-import giaodienchuan.model.BackEnd.ConnectionDB.ConnectionDB;
+import bandienthoai.model.BackEnd.ConnectionDB.ConnectionDB;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
