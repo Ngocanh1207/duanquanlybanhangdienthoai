@@ -1,11 +1,11 @@
-package giaodienchuan.model.FrontEnd.FormHienThi;
+package bandienthoai.model.FrontEnd.FormHienThi;
 
-import giaodienchuan.model.BackEnd.PriceFormatter;
-import giaodienchuan.model.BackEnd.QuanLyLoaiSanPham.QuanLyLoaiSanPhamBUS;
-import giaodienchuan.model.BackEnd.QuanLySanPham.QuanLySanPhamBUS;
-import giaodienchuan.model.BackEnd.QuanLySanPham.SanPham;
-import giaodienchuan.model.FrontEnd.GiaoDienChuan.LoginForm;
-import giaodienchuan.model.FrontEnd.GiaoDienChuan.MyTable;
+import bandienthoai.model.BackEnd.PriceFormatter;
+import bandienthoai.model.BackEnd.QuanLyLoaiSanPham.QuanLyLoaiSanPhamBUS;
+import bandienthoai.model.BackEnd.QuanLySanPham.QuanLySanPhamBUS;
+import bandienthoai.model.BackEnd.QuanLySanPham.SanPham;
+import bandienthoai.model.FrontEnd.bandienthoai.LoginForm;
+import bandienthoai.model.FrontEnd.bandienthoai.MyTable;
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Dimension;
