@@ -1,4 +1,4 @@
-package giaodienchuan.model.BackEnd.QuanLyTaiKhoan;
+package bandienthoai.model.BackEnd.QuanLyTaiKhoan;
 
 public class TaiKhoan {
     String username, password, maNV, maQuyen;
