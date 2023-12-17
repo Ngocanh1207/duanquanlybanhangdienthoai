@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package giaodienchuan.model.FrontEnd.FormHienThi;
+package bandienthoai.model.FrontEnd.FormHienThi;
 
-import giaodienchuan.model.BackEnd.PriceFormatter;
-import giaodienchuan.model.BackEnd.QuanLyChiTietPN.ChiTietPhieuNhap;
-import giaodienchuan.model.BackEnd.QuanLyChiTietPN.QuanLyChiTietPhieuNhapBUS;
-import giaodienchuan.model.BackEnd.QuanLySanPham.QuanLySanPhamBUS;
-import giaodienchuan.model.FrontEnd.GiaoDienChuan.MyTable;
+import bandienthoai.model.BackEnd.PriceFormatter;
+import bandienthoai.model.BackEnd.QuanLyChiTietPN.ChiTietPhieuNhap;
+import bandienthoai.model.BackEnd.QuanLyChiTietPN.QuanLyChiTietPhieuNhapBUS;
+import bandienthoai.model.BackEnd.QuanLySanPham.QuanLySanPhamBUS;
+import bandienthoai.model.FrontEnd.bandienthoai.MyTable;
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;
 import java.util.ArrayList;
